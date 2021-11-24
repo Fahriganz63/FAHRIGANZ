@@ -1,6 +1,6 @@
 <h1 align="center">FahriGanz <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
-<img src="https://ibb.co/CwpyKd8.jpg" />
+<img src="https://i.ibb.co/JcWTjLt/20211125-032948.jpg"/>
 </p>
 
 <p align="center">
