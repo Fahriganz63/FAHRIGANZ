@@ -35,7 +35,7 @@
 
 ## ```SETTING```
 
-- Owner number [6385389137218](https://github.com/Zero-YT7/Base-ZeroYT7/blob/master/setting.json#L4)
+- Owner number [6381349424227](https://github.com/Zero-YT7/Base-ZeroYT7/blob/master/setting.json#L4)
 - Owner name [Fahri](https://github.com/Fahriganz63/Base-FAHRIGANZ/blob/master/setting.json#L13)
 - Botname [SadBot](https://github.com/Fahriganz63/Base-FAHRIGANZ/blob/master/setting.json#L14)
 
